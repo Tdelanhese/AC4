@@ -24,7 +24,7 @@ class Calc():
     def somar(n, n1):
         soma = n + n1
         
-        return { resultado: soma }
+        return { 'resultado': soma }
     
     def jsonReturn():
         return tasks
